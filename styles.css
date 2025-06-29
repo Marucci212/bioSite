@@ -107,18 +107,18 @@ header h1 {
 }
 
 .portrait-nav ul li a {
-  color: #00796b;
+  color: #000000;
   font-weight: bold;
   text-decoration: none;
   font-size: 18px;
-  background-color: #e0f2f1;
+  background-color: #add8e6; /* Light blue to match header */
   padding: 10px 16px;
   border-radius: 8px;
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
 .portrait-nav ul li a:hover {
-  background-color: #00796b;
+  background-color: #87cde6; /* Slightly darker blue on hover */
   color: white;
   text-decoration: none;
 }
